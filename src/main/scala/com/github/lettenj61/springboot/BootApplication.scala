@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
 class BootApplication
+
 object BootApplication {
 
   def main(args: Array[String]): Unit = {

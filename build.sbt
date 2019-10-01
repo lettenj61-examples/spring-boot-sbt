@@ -27,4 +27,4 @@ libraryDependencies ++= Seq(
   "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.9.9"
 )
 
-Compile / run / mainClass := Some("com.github.lettenj61.BootApplication")
+Compile / run / mainClass := Some("com.github.lettenj61.springboot.BootApplication")
